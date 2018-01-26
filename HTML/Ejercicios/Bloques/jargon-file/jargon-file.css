@@ -1,0 +1,22 @@
+html {
+    background-color:hsl(198, 50%, 85%);
+    font-family:sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 300%;
+}
+h2{
+    background-color: hsl(198, 50%, 50%)
+}
+
+h3{
+    background-color: hsl(198, 50%, 65%)
+}
+
+pre{
+    background-color: white
+}

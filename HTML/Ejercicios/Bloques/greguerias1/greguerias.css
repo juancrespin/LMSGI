@@ -1,0 +1,40 @@
+
+body{
+    background-color:  hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 300%;
+    color: hsl(0, 0%, 0%);
+    text-transform: capitalize;
+
+}
+
+p.niño{
+    font-size: 150%;
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.animal{
+    font-size: 150%;
+    color: hsl(35, 100%, 85%);
+    font-family:sans-serif;
+}
+
+p.libro{
+    font-size: 200%;
+    color: hsl(35, 100%, 55%);
+    font-family: monospace;
+}
+
+p.numero{
+    font-size: 150%;
+    color:hsl(345, 80%, 50%);
+    font-family:cursive;
+}
+
+
+

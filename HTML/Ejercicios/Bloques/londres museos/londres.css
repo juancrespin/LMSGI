@@ -1,0 +1,37 @@
+
+body{
+    background-color: hsl(175, 40%, 50%);
+    text-align:justify;
+    font-size: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+}
+
+div{
+margin: 40px 20%;
+    background-color: white;
+    border: 20px hsl(20, 100%, 45%) solid;
+    padding: 20px;
+}
+
+a{
+    color: hsl(175, 100%, 15%);
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+p.enlaces{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img.izquierda{
+    float: left;
+}
+
+img.derecha{
+    float: right;
+}

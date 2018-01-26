@@ -1,0 +1,44 @@
+
+body{
+    background-color: hsl(69, 10%, 75%);
+font-family: sans-serif;
+text-align: justify;
+font-size: 24px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: hsl(240, 65%, 25%);
+    letter-spacing: 50px;
+    font-weight: 900;
+    text-align: right;
+}
+h2{
+    background-color: hsl(68, 29%, 30%);
+    color: white;
+    clear: both;
+}
+
+strong{
+    font-style: oblique;
+}
+
+img.fiore{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+img.Novella{
+float: right;
+margin-left: 10px;
+margin-bottom: 10px;
+}
+
+p.centrado{
+    text-align: center;
+}
+address{
+    clear: both;
+    font-size: 20px;
+}

@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: hsl(235, 20%, 90%);
+    font-family: sans-serif;
+    text-align: justify;
+  }
+
+  h1 {
+    margin: 0;
+    background-color: hsl(235, 20%, 25%);
+    color: white;
+    font-size: 400%;
+}
+
+h3{
+    background-color: #29A333;
+    color: white;
+    font-size: 200%;
+
+}
+
+div.div1{
+    width:500px;
+    position:absolute;
+    left: 10%;
+    margin: 10px;
+    padding: 10px;
+    font-style: oblique;
+    border-right: black 1px solid;
+    border-left: black 1px solid;
+}
+
+div.div2{
+
+    width:500px;
+    position:absolute;
+    right: 10%;
+    margin: 10px;
+    padding: 10px;
+    font-style: oblique;
+    border-right: black 1px solid;
+    border-left: black 1px solid;
+}

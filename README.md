@@ -14,8 +14,8 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>CHESTERTON
 
-      <li><a href="chesterton-1-plantilla/chesterton-1.html">chesterton</a>
-      </li>
+     <li><a href="chesterton-1-plantilla/chesterton-1.html">chesterton</a>
+     </li>
 
     </li>
   </ul>

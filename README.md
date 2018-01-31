@@ -1,9 +1,9 @@
 # LMSGI
 ejercicios de LMGSI en clase en GitHub 
+# HTML 5
 <html lang="es">
 <head>
   <meta charset="utf-8" />
-  #HTML 5
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" type="text/css" href="estlo.css" />
 

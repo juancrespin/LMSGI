@@ -1,24 +1,17 @@
 # LMSGI
 ejercicios de LMGSI en clase en GitHub
+
+# HTML 5
 <html lang="es">
 <head>
   <meta charset="utf-8" />
-  <title>HTML 5</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" type="text/css" href="estlo.css" />
 
 </head>
 
 <body>
-
-  <ul>
-    <li>CHESTERTON
-
-      <li><a href="chesterton-1-plantilla/chesterton-1.html">chesterton</a>
-      </li>
-
-    </li>
-  </ul>
 
   <ul>
     <li>CITAS DIJKSTRA

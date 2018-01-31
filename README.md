@@ -14,7 +14,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>CITAS DIJKSTRA
       <ul>
-        <li><a href="citas-dijkstra/citas-dijkstra.html">citas dijkstra</a>
+        <li><a href="./citas-dijkstra/citas-dijkstra.html">citas dijkstra</a>
         </li>
       </ul>
     </li>
@@ -23,7 +23,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>COMIC SANS
       <ul>
-        <li><a href="comic-sans/comic-sans.html">comic-sans</a>
+        <li><a href="./comic-sans/comic-sans.html">comic-sans</a>
         </li>
       </ul>
     </li>
@@ -32,7 +32,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>EMOJI PELICULAS
       <ul>
-        <li><a href="emoji-peliculas/emoji-peliculas.html">emoji-peliculas</a>
+        <li><a href="./emoji-peliculas/emoji-peliculas.html">emoji-peliculas</a>
         </li>
       </ul>
     </li>
@@ -41,7 +41,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>CITAS VIRGILIO
       <ul>
-        <li><a href="citas-virgilio-google-fonts/citas-virgilio-google-fonts.html">citas-virgilio</a>
+        <li><a href="./citas-virgilio-google-fonts/citas-virgilio-google-fonts.html">citas-virgilio</a>
         </li>
       </ul>
     </li>
@@ -50,7 +50,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>CURRICULUM
       <ul>
-        <li><a href="curriculum-vitae/curriculum-vitae.html">curriculum</a>
+        <li><a href="./curriculum-vitae/curriculum-vitae.html">curriculum</a>
         </li>
       </ul>
     </li>
@@ -59,7 +59,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>GREGERIAS
       <ul>
-        <li><a href="greguerias1/greguerias-1.html">greguerias</a>
+        <li><a href="./greguerias1/greguerias-1.html">greguerias</a>
         </li>
       </ul>
     </li>
@@ -68,7 +68,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>MUSEOS LONDRES
       <ul>
-        <li><a href="londres museos/londres.html">londres</a>
+        <li><a href="./londres museos/londres.html">londres</a>
         </li>
       </ul>
     </li>
@@ -77,7 +77,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>THE JARGON FILE
       <ul>
-        <li><a href="jargon-file/jargon-file.html">The Jargon File</a>
+        <li><a href="./jargon-file/jargon-file.html">The Jargon File</a>
         </li>
       </ul>
     </li>
@@ -86,7 +86,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>FLORENCIA
       <ul>
-        <li><a href="Florencia/florencia.html">Florencia</a>
+        <li><a href="./Florencia/florencia.html">Florencia</a>
         </li>
       </ul>
     </li>
@@ -95,7 +95,7 @@ ejercicios de LMGSI en clase en GitHub
   <ul>
     <li>EMOTICONOS
       <ul>
-        <li><a href="Emoticonos/emoticonos.html">Emoticonos</a>
+        <li><a href="./Emoticonos/emoticonos.html">Emoticonos</a>
         </li>
       </ul>
     </li>
